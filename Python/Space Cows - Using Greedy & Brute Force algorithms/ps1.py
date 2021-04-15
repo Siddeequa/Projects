@@ -106,7 +106,6 @@ def brute_force_cow_transport(cows,limit=10):
     for combination in all_combinations:
         flag = False
         for trip in combination:
-            
             total = 0
             for cow in trip:
                 # Get value of cow
@@ -116,12 +115,10 @@ def brute_force_cow_transport(cows,limit=10):
                 if total > limit:
                     flag = True
                     break
-            
         # If within limit, combination found
         if flag == False:
             return combination
 
-        
 # Problem 3
 def compare_cow_transport_algorithms():
     """
@@ -148,8 +145,7 @@ def compare_cow_transport_algorithms():
     end = time.time()
     print(end - start)
     
-
-
+    
 """
 Here is some test data for you to see the results of your algorithms with. 
 Do not submit this along with any of your answers. Uncomment the last two
