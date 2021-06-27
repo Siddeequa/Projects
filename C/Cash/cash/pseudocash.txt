@@ -1,0 +1,7 @@
+Prompt user for +ve amount in dollar
+Convert dollar to cent
+if amt > 25, use quarter
+     - 25 from amt
+     + 1 to coins
+Repeat for dimes, nickels and pennies
+Print number of coins
