@@ -12,7 +12,7 @@ The bank’s manager proposes a compromise: “You got a greeting that starts wi
 * Otherwise, $100 is outputted. 
 * Any leading whitespace in the user’s greeting is ignored and the user’s greeting is greeted case-insensitively.
 
-**DEMO**
+**DEMO:**
 
 
 ![image](https://user-images.githubusercontent.com/65298005/163200091-a94aa46c-d72b-4dd1-8297-7abdb414ba42.png)
