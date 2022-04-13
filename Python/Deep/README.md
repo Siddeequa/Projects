@@ -25,7 +25,7 @@
 
 **DEMO:**
 
-```bash
+```
 $ python deep.py
 What is the Answer to the Great Question of Life, the Universe, and Everything? 42
 Yes
