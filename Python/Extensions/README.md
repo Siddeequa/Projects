@@ -16,7 +16,7 @@ If the file name ends, case-insensitively, in any of the following suffixes, the
 * .png
 * .pdf
 * .txt
-* .zip  
+* .zip    
 If the file’s name ends with some other suffix or has no suffix at all, 'application/octet-stream' is instead outputted, which is a common default.
 
 **DEMO:**
