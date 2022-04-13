@@ -29,4 +29,7 @@ image/jpg
 $ python extensions.py
 File name? table.pdf
 application/pdf
+$ python extensions.py
+File name? square.py
+application/octet-stream
 ```
