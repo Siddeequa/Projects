@@ -1,2 +1,0 @@
-- 'Substring' displays the number of times a particular substring appears in a string.
-- 'LongestSubstringAlphabeticalOrder' displays the longest substring that is in alphabetical order in a string.
