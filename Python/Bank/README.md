@@ -15,6 +15,14 @@ The bank’s manager proposes a compromise: “You got a greeting that starts wi
 **DEMO:**
 
 
-```python
-Greeting:
+```bash
+$ python bank.py
+Greeting: Hello, Newman
+$0
+$ python bank.py
+Greeting: Hey
+$20
+$ python bank.py
+Greeting: What's up?
+$100
 ```
