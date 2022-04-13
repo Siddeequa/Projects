@@ -15,6 +15,6 @@ The bank’s manager proposes a compromise: “You got a greeting that starts wi
 **DEMO:**
 
 
-```bash
+```python
 Greeting:
 ```
